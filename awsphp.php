@@ -1,5 +1,7 @@
 <?php
 /*
+This file is intended for Web developer and Android developer to recieve AWS api gateway
+author @AungMyatMo
 You can see test awsuserdomainname,this is not work for You
 You should use real url* :)
 */
